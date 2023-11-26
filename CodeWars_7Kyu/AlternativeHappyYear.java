@@ -5,9 +5,12 @@ public class AlternativeHappyYear {
     public static void main(String[] args) {
         
         /*
+        que 
         exactamente el mismo planteamiento que el anterior, pero en lugar de ordenarlos, tengo un bucle
         que mira un numero, y otro dentro que mira todos los demas en relacion al anterior, y asi compruebo
         si alguna vez se repite algun numero
+
+        https://www.codewars.com/kata/5ae7e3f068e6445bc8000046/train/java
         */
         
         Scanner scanner = new Scanner(System.in);
