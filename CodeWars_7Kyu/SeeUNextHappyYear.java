@@ -6,6 +6,8 @@ import java.util.Collections;
 public class SeeUNextHappyYear {
     public static void main(String[]args){
         /*
+        https://www.codewars.com/kata/5ae7e3f068e6445bc8000046/train/java
+        
         programa donde insertemos un año y nos indique cual sera el proximo
         año feliz(año donde no se repite ningun numero)
         2019 =feliz
