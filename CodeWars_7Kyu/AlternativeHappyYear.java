@@ -5,7 +5,7 @@ public class AlternativeHappyYear {
     public static void main(String[] args) {
         
         /*
-        que 
+        que SeeUNextHappyYear.java
         exactamente el mismo planteamiento que el anterior, pero en lugar de ordenarlos, tengo un bucle
         que mira un numero, y otro dentro que mira todos los demas en relacion al anterior, y asi compruebo
         si alguna vez se repite algun numero
